@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/sbt-assignment-1/src/main/scala/Hello.scala:2:23: illegal character '\u201c'[0m
+[0m[[0m[31merror[0m] [0m[0m              println(“Welcome to sbt”)[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/sbt-assignment-1/src/main/scala/Hello.scala:2:38: illegal character '\u201d'[0m
+[0m[[0m[31merror[0m] [0m[0m              println(“Welcome to sbt”)[0m
+[0m[[0m[31merror[0m] [0m[0m                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/sbt-assignment-1/src/main/scala/Hello.scala:3:1: ')' expected but '}' found.[0m
+[0m[[0m[31merror[0m] [0m[0m}[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
